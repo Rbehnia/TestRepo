@@ -3,3 +3,5 @@ hello there! This is just a text
 There was a line above this line which I wish was removed
 
 Wow I just branched
+
+I am branching again 2
